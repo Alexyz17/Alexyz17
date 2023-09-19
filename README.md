@@ -16,7 +16,4 @@ Y alguna más...
 
 ## Encuéntrame en:
 
-[![Twitter](https://img.shields.io/badge/Twitter-@alex20db-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/alex20db)
-[![Instagram](https://img.shields.io/badge/Instagram-@alexvg_17-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/alexvg_17/)
-</br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alex_Villar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/alexvg20/)
