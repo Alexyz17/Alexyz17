@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Soy Alex Villar Gracia</h1>
 <h3 align="center">Un apasionado del mundo de la informática</h3>
 
-- 🌱 Actualmente estoy estudiando **DAM Desarrollo de aplicaciones multiplataforma**
+- 🌱 Actualmente he acabado **DAM Desarrollo de aplicaciones multiplataforma**
 
 - 👨‍💻 Todos mis proyectos aqui: [https://github.com/Alexyz17](https://github.com/Alexyz17)
 
