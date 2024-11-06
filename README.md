@@ -1,13 +1,13 @@
 <h1 align="center">Hola 👋, Soy Alex Villar Gracia</h1>
 <h3 align="center">Un apasionado del mundo de la informática</h3>
 
-- 🌱 Actualmente he acabado **DAM Desarrollo de aplicaciones multiplataforma**
+- 🌱 Actualmente he acabado **DAM Desarrollo de aplicaciones multiplataforma** y estoy cursando **DAW Desarrollo de aplicaciones web** para ampliar aún más mis conocimientos con la idea de hacerme **FULLSTACK**.
 
 - 👨‍💻 Todos mis proyectos aqui: [https://github.com/Alexyz17](https://github.com/Alexyz17)
 
 - 📫 Para contactarme **alexvillar10@gmail.com**
 
-- ⚡ Dato gracioso: **Creo que puedo aprender casi todo muy rapido cuando me interesa un tema**
+- ⚡ Dato gracioso: **Creo que puedo aprender casi todo muy rapido cuando me interesa un tema debido al hiperfoco**
 
 <h3 align="left">Contactame en:</h3>
 <p align="left">
