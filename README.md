@@ -14,12 +14,12 @@
 
 ## 👋 Sobre mí
 
-Desarrollador Full Stack con doble titulación **DAM + DAW** y experiencia profesional en **React + TypeScript**, **Laravel**, **Node.js** y **Java**. Me gusta entender el problema a fondo antes de implementarlo y llevar las cosas de punta a punta: modelo de datos, API, interfaz y despliegue.
+Desarrollador Full Stack con **2 años de experiencia profesional**, doble titulación **DAM + DAW** y experiencia en **React + TypeScript**, **Laravel**, **Node.js** y **Java**. Me gusta entender el problema a fondo antes de implementarlo y llevar las cosas de punta a punta: modelo de datos, API, interfaz y despliegue.
 
 - 💼 **Videoatención** (Feb – Oct 2026) · Full Stack en GUIAT, SaaS de asistentes guiados para administraciones públicas: editor en React + TypeScript sobre API Laravel 11, microservicio de PDF en Node.js y despliegues en Kubernetes (Helm, ArgoCD, GitLab CI)
 - ☕ **Sofyman** (Jun – Dic 2025) · Analista programador Java, aplicaciones TPV
 - 🐘 **Proogresa** (Nov 2024 – Feb 2025) · Prácticas PHP: Laravel, CodeIgniter, WordPress, Shopify
-- 🔨 **darkcode** · mi plataforma para aprender programación, hecha con Laravel 13 + Inertia + React 19
+- 🌐 **[Aprende a Programar](https://alexvillar10.gitlab.io/aprende-a-programar/)** · mi web de cursos de programación gratuitos y abiertos (35 cursos, React + TypeScript), nacida de darkcode, mi plataforma en Laravel 13 + Inertia + React 19
 - 📍 Terrassa (Barcelona) · español y catalán nativos, inglés B2
 
 ---
@@ -28,7 +28,8 @@ Desarrollador Full Stack con doble titulación **DAM + DAW** y experiencia profe
 
 | Proyecto | Stack | Qué es |
 |----------|-------|--------|
-| 🌐 **[darkcode](https://darkcode.dev)** | `Laravel 13` `Inertia` `React 19` `TypeScript` `Tailwind 4` `Docker` | Plataforma de cursos de programación: +20 lecciones, auth con Google OAuth, roles y panel de admin, minijuegos con ranking, i18n y SEO |
+| 🌐 **[Aprende a Programar](https://alexvillar10.gitlab.io/aprende-a-programar/)** | `React 19` `TypeScript` `Vite` `Tailwind 4` `GitLab CI` | 35 cursos gratuitos en español, rutas de aprendizaje y 15 juegos. Web estática, sin registro y con contenido abierto ([código](https://gitlab.com/alexvillar10/aprende-a-programar)) |
+| 🔐 **darkcode** | `Laravel 13` `Inertia` `React 19` `TypeScript` `Docker` | Versión full stack original: registro, login con Google (OAuth), recuperación de contraseña, roles, panel de admin, minijuegos con ranking e i18n |
 | 📄 **surveyjs-to-pdf** *(empresa, privado)* | `Node.js` `TypeScript` `Express` `pdf-lib` `Puppeteer` | Microservicio que convierte formularios SurveyJS en PDF rellenables (AcroForm). Principal contribuidor, +50 versiones publicadas |
 | 🧩 **GUIAT · fichas de trámite** *(empresa, privado)* | `React` `TypeScript` `Redux Toolkit` `TanStack Query` `Laravel 11` | Módulo del editor para que los ayuntamientos publiquen trámites multiidioma con su base legal |
 | 🎥 **Robot de videollamada Jitsi** *(empresa, privado)* | `Python` `FastAPI` `Selenium` `WebRTC` | Echo test de cámara y micro; resolví la congelación del vídeo ajustando keyframes y bitrate |
