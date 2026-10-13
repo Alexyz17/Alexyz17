@@ -35,15 +35,16 @@ Plataforma de aprendizaje con autenticación (incluido OAuth de Google), roles, 
 
 `React 19` `TypeScript` `Vite` `Tailwind CSS 4` `GitLab CI`
 
-Cursos de programación en español, rutas de aprendizaje y juegos para practicar, sin registro ni pagos y **en crecimiento constante**. SPA estática sin backend con router propio, lecciones en Markdown, prerenderizado para SEO, accesibilidad AA y despliegue continuo en GitLab Pages. [Código](https://gitlab.com/alexvillar10/aprende-a-programar).
+Cursos de programación en español, rutas de aprendizaje y juegos para practicar, sin registro ni pagos y **en crecimiento constante**. SPA estática sin backend con router propio, lecciones en Markdown, prerenderizado para SEO, accesibilidad AA y despliegue continuo en GitLab Pages. [Código](https://github.com/Alexyz17/aprende-a-programar).
 
 ### Otros
 
 | Proyecto | Stack | Qué es |
 |----------|-------|--------|
-| [MushTool](https://github.com/Alexyz17/MushTool) | `Kotlin` `Jetpack Compose` `Firebase` | App Android de ubicaciones con sincronización en tiempo real |
-| [AstroERP](https://github.com/Alexyz17/ASTROERP) | `Java` `Spring Boot` | ERP web para la asociación AstroTerrassa |
+| [MushTool](https://github.com/ArnauMB1992/mushtoolP3) | `Kotlin` `Jetpack Compose` `Firebase` | App Android de ubicaciones con sincronización en tiempo real (en equipo, principal contribuidor) |
+| AstroERP | `Java` `Spring Boot` | ERP web para la asociación AstroTerrassa (en equipo) |
 | Subastas Online | `Laravel 11` `Vue` `MySQL` `AWS` | Proyecto en equipo: subastas con autenticación y pujas |
+| [Lord of Steel](https://github.com/Alexyz17/LOS) | `Java` `POO` | Juego de rol por consola: herencia, interfaces y polimorfismo |
 
 En la empresa también desarrollé **surveyjs-to-pdf** (microservicio Node.js que genera PDF rellenables; principal contribuidor) y un **robot de videollamada Jitsi** en Python + FastAPI. Son privados, pero los describo en mi [portfolio](https://alexvillar10.gitlab.io/).
 
