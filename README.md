@@ -1,46 +1,51 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:8b5cf6&height=180&section=header&text=Alex%20Villar%20Gracia&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20·%20Laravel%20%2B%20React&descAlignY=58&descSize=18" width="100%" />
+<img src="banner.svg" alt="Alex Villar Gracia · Junior Full Stack Developer · Laravel + React" width="100%" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-alexvillar10.gitlab.io-6366f1?style=for-the-badge&logo=gitlab&logoColor=white)](https://alexvillar10.gitlab.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-alexvillar10.gitlab.io-b23f12?style=for-the-badge&logo=astro&logoColor=white)](https://alexvillar10.gitlab.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-alexvg20-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexvg20)
-[![Email](https://img.shields.io/badge/Email-alexvillar10@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexvillar10@gmail.com)
+[![Email](https://img.shields.io/badge/Email-alexvillar10@gmail.com-c97a10?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexvillar10@gmail.com)
 
-**🟢 Disponible ya · busco puesto Full Stack (Laravel + React) en remoto**
+**Disponible ya · busco puesto Full Stack Junior (Laravel + React) en remoto**
 
 </div>
 
----
+## Sobre mí
 
-## 👋 Sobre mí
+Desarrollador Full Stack **junior con 2 años de experiencia laboral real**, doble titulación **DAW + DAM** y foco en **Laravel + React con TypeScript**. Me gusta entender el problema antes de escribir código y llevar las cosas de punta a punta: modelo de datos, API, interfaz, tests y despliegue.
 
-Desarrollador Full Stack con **2 años de experiencia profesional**, doble titulación **DAM + DAW** y experiencia en **React + TypeScript**, **Laravel**, **Node.js** y **Java**. Me gusta entender el problema a fondo antes de implementarlo y llevar las cosas de punta a punta: modelo de datos, API, interfaz y despliegue.
+- **Videoatención** · Feb – Oct 2026 · Full Stack en GUIAT, un SaaS de asistentes guiados para administraciones públicas: editor en React + TypeScript sobre una API en Laravel 11, microservicio de PDF en Node.js y despliegues en Kubernetes con Helm, ArgoCD y GitLab CI.
+- **Sofyman** · Jun – Dic 2025 · Analista programador Java en aplicaciones TPV.
+- **Proogresa** · Nov 2024 – Feb 2025 · Prácticas de PHP con Laravel, CodeIgniter, WordPress y Shopify.
+- Terrassa (Barcelona) · español y catalán nativos, inglés B2.
 
-- 💼 **Videoatención** (Feb – Oct 2026) · Full Stack en GUIAT, SaaS de asistentes guiados para administraciones públicas: editor en React + TypeScript sobre API Laravel 11, microservicio de PDF en Node.js y despliegues en Kubernetes (Helm, ArgoCD, GitLab CI)
-- ☕ **Sofyman** (Jun – Dic 2025) · Analista programador Java, aplicaciones TPV
-- 🐘 **Proogresa** (Nov 2024 – Feb 2025) · Prácticas PHP: Laravel, CodeIgniter, WordPress, Shopify
-- 🌐 **[Aprende a Programar](https://alexvillar10.gitlab.io/aprende-a-programar/)** · mi web de cursos de programación gratuitos y abiertos (35 cursos, React + TypeScript), nacida de darkcode, mi plataforma en Laravel 13 + Inertia + React 19
-- 📍 Terrassa (Barcelona) · español y catalán nativos, inglés B2
+## Proyectos personales
 
----
+### [darkcode](https://github.com/Alexyz17/darkcode) · aplicación full stack
 
-## 🚀 Proyectos destacados
+`Laravel 13` `Inertia` `React 19` `TypeScript` `PostgreSQL` `PHPUnit` `Docker` `GitHub Actions`
+
+Plataforma de aprendizaje con autenticación (incluido OAuth de Google), roles, panel de administración, juegos corregidos en el servidor y ranking semanal con consultas SQL agregadas. Hice una revisión de seguridad completa (escalada de privilegios en el registro, webhook sin autenticar, límites de intentos) y cada corrección tiene su test: **47 tests y CI en GitHub Actions y GitLab CI**.
+
+<a href="https://github.com/Alexyz17/darkcode"><img src="https://raw.githubusercontent.com/Alexyz17/darkcode/master/docs/capturas/juegos.png" alt="darkcode: juegos con el top 3 del ranking semanal" width="100%" /></a>
+
+### [Aprende a Programar](https://alexvillar10.gitlab.io/aprende-a-programar/) · web educativa gratuita
+
+`React 19` `TypeScript` `Vite` `Tailwind CSS 4` `GitLab CI`
+
+**38 cursos** de programación en español, **9 rutas** de aprendizaje y **24 juegos**, sin registro ni pagos. SPA estática sin backend con router propio, lecciones en Markdown, prerenderizado para SEO, accesibilidad AA y despliegue continuo en GitLab Pages. [Código](https://gitlab.com/alexvillar10/aprende-a-programar).
+
+### Otros
 
 | Proyecto | Stack | Qué es |
 |----------|-------|--------|
-| 🌐 **[Aprende a Programar](https://alexvillar10.gitlab.io/aprende-a-programar/)** | `React 19` `TypeScript` `Vite` `Tailwind 4` `GitLab CI` | 35 cursos gratuitos en español, rutas de aprendizaje y 15 juegos. Web estática, sin registro y con contenido abierto ([código](https://gitlab.com/alexvillar10/aprende-a-programar)) |
-| 🔐 **darkcode** | `Laravel 13` `Inertia` `React 19` `TypeScript` `Docker` | Versión full stack original: registro, login con Google (OAuth), recuperación de contraseña, roles, panel de admin, minijuegos con ranking e i18n |
-| 📄 **surveyjs-to-pdf** *(empresa, privado)* | `Node.js` `TypeScript` `Express` `pdf-lib` `Puppeteer` | Microservicio que convierte formularios SurveyJS en PDF rellenables (AcroForm). Principal contribuidor, +50 versiones publicadas |
-| 🧩 **GUIAT · fichas de trámite** *(empresa, privado)* | `React` `TypeScript` `Redux Toolkit` `TanStack Query` `Laravel 11` | Módulo del editor para que los ayuntamientos publiquen trámites multiidioma con su base legal |
-| 🎥 **Robot de videollamada Jitsi** *(empresa, privado)* | `Python` `FastAPI` `Selenium` `WebRTC` | Echo test de cámara y micro; resolví la congelación del vídeo ajustando keyframes y bitrate |
-| 🏷️ **Subastas Online** | `Laravel 11` `Vue` `MySQL` `AWS` | Plataforma de subastas con autenticación, pujas y gestión de productos |
-| 💼 **Borsa de Treball** | `Laravel` `Vue` `Docker` `MariaDB` | Portal de empleo que conecta alumnado y empresas |
-| 📱 **[MushTool](https://github.com/Alexyz17/MushTool)** | `Kotlin` `Jetpack Compose` `Firebase` | App Android de ubicaciones de setas con sincronización en tiempo real |
-| 🏢 **[AstroERP](https://github.com/Alexyz17/ASTROERP)** | `Java` `Spring Boot` | ERP web para la gestión interna de la asociación AstroTerrassa |
+| [MushTool](https://github.com/Alexyz17/MushTool) | `Kotlin` `Jetpack Compose` `Firebase` | App Android de ubicaciones con sincronización en tiempo real |
+| [AstroERP](https://github.com/Alexyz17/ASTROERP) | `Java` `Spring Boot` | ERP web para la asociación AstroTerrassa |
+| Subastas Online | `Laravel 11` `Vue` `MySQL` `AWS` | Proyecto en equipo: subastas con autenticación y pujas |
 
----
+En la empresa también desarrollé **surveyjs-to-pdf** (microservicio Node.js que genera PDF rellenables; principal contribuidor) y un **robot de videollamada Jitsi** en Python + FastAPI. Son privados, pero los describo en mi [portfolio](https://alexvillar10.gitlab.io/).
 
-## 🛠️ Stack
+## Stack
 
 **Backend** &nbsp;
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -48,7 +53,6 @@ Desarrollador Full Stack con **2 años de experiencia profesional**, doble titul
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 **Frontend** &nbsp;
@@ -60,44 +64,37 @@ Desarrollador Full Stack con **2 años de experiencia profesional**, doble titul
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 
 **Datos** &nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 **DevOps** &nbsp;
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
 ![Argo CD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
 **Calidad** &nbsp;
+![PHPUnit](https://img.shields.io/badge/PHPUnit-3C9CD7?style=flat-square&logo=php&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 
----
-
-## 📚 Formación
+## Formación
 
 | Título | Centro | Años |
 |--------|--------|------|
-| 🎓 CFGS DAW + DAM (doble titulación) | Institut Nicolau Copèrnic, Terrassa | 2022 – 2025 |
-| 🎓 CFGM Sistemas Microinformáticos y Redes | Institut Nicolau Copèrnic, Terrassa | 2020 – 2022 |
-
----
+| CFGS DAW + DAM (doble titulación) | Institut Nicolau Copèrnic, Terrassa | 2022 – 2025 |
+| CFGM Sistemas Microinformáticos y Redes | Institut Nicolau Copèrnic, Terrassa | 2020 – 2022 |
 
 <div align="center">
 
-### 💬 ¿Hablamos?
+### ¿Hablamos?
 
-Busco un puesto **Full Stack en remoto** con Laravel y React donde seguir creciendo.
+Busco un puesto **Full Stack Junior en remoto** con Laravel y React.
 
 [![LinkedIn](https://img.shields.io/badge/Escríbeme_en_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexvg20)
-[![Email](https://img.shields.io/badge/Mándame_un_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexvillar10@gmail.com)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:6366f1&height=100&section=footer" width="100%" />
+[![Email](https://img.shields.io/badge/Mándame_un_email-b23f12?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexvillar10@gmail.com)
 
 </div>
