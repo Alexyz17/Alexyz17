@@ -21,6 +21,8 @@ Desarrollador Full Stack con foco en **Laravel + React con TypeScript**, titulad
 
 ## Proyectos personales
 
+Siempre tengo algún proyecto en marcha y todo lo que construyo acaba aquí o en [GitLab](https://gitlab.com/alexvillar10).
+
 ### [darkcode](https://github.com/Alexyz17/darkcode) · aplicación full stack
 
 `Laravel 13` `Inertia` `React 19` `TypeScript` `PostgreSQL` `PHPUnit` `Docker` `GitHub Actions`
@@ -33,7 +35,7 @@ Plataforma de aprendizaje con autenticación (incluido OAuth de Google), roles, 
 
 `React 19` `TypeScript` `Vite` `Tailwind CSS 4` `GitLab CI`
 
-**38 cursos** de programación en español, **9 rutas** de aprendizaje y **24 juegos**, sin registro ni pagos. SPA estática sin backend con router propio, lecciones en Markdown, prerenderizado para SEO, accesibilidad AA y despliegue continuo en GitLab Pages. [Código](https://gitlab.com/alexvillar10/aprende-a-programar).
+Cursos de programación en español, rutas de aprendizaje y juegos para practicar, sin registro ni pagos y **en crecimiento constante**. SPA estática sin backend con router propio, lecciones en Markdown, prerenderizado para SEO, accesibilidad AA y despliegue continuo en GitLab Pages. [Código](https://gitlab.com/alexvillar10/aprende-a-programar).
 
 ### Otros
 
