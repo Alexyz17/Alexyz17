@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="banner.svg" alt="Alex Villar Gracia · Junior Full Stack Developer · Laravel + React" width="100%" />
+<img src="banner.svg" alt="Alex Villar Gracia · Full Stack Developer · Laravel + React" width="100%" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-alexvillar10.gitlab.io-b23f12?style=for-the-badge&logo=astro&logoColor=white)](https://alexvillar10.gitlab.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-alexvg20-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexvg20)
 [![Email](https://img.shields.io/badge/Email-alexvillar10@gmail.com-c97a10?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexvillar10@gmail.com)
 
-**Disponible ya · busco puesto Full Stack Junior (Laravel + React) en remoto**
+**Disponible ya · busco puesto Full Stack (Laravel + React) en remoto**
 
 </div>
 
 ## Sobre mí
 
-Desarrollador Full Stack **junior con 2 años de experiencia laboral real**, doble titulación **DAW + DAM** y foco en **Laravel + React con TypeScript**. Me gusta entender el problema antes de escribir código y llevar las cosas de punta a punta: modelo de datos, API, interfaz, tests y despliegue.
+Desarrollador Full Stack con foco en **Laravel + React con TypeScript**, titulado en **DAW + DAM** en 2025. Me gusta entender el problema antes de escribir código y llevar las cosas de punta a punta: modelo de datos, API, interfaz, tests y despliegue.
 
 - **Videoatención** · Feb – Oct 2026 · Full Stack en GUIAT, un SaaS de asistentes guiados para administraciones públicas: editor en React + TypeScript sobre una API en Laravel 11, microservicio de PDF en Node.js y despliegues en Kubernetes con Helm, ArgoCD y GitLab CI.
 - **Sofyman** · Jun – Dic 2025 · Analista programador Java en aplicaciones TPV.
@@ -92,7 +92,7 @@ En la empresa también desarrollé **surveyjs-to-pdf** (microservicio Node.js qu
 
 ### ¿Hablamos?
 
-Busco un puesto **Full Stack Junior en remoto** con Laravel y React.
+Busco un puesto **Full Stack en remoto** con Laravel y React, en un equipo donde seguir creciendo.
 
 [![LinkedIn](https://img.shields.io/badge/Escríbeme_en_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexvg20)
 [![Email](https://img.shields.io/badge/Mándame_un_email-b23f12?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexvillar10@gmail.com)
