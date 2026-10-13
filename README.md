@@ -92,7 +92,7 @@ En la empresa también desarrollé **surveyjs-to-pdf** (microservicio Node.js qu
 
 ### ¿Hablamos?
 
-Busco un puesto **Full Stack en remoto** con Laravel y React, en un equipo donde seguir creciendo.
+Busco un puesto **Full Stack en remoto** con Laravel y React. Disponibilidad inmediata.
 
 [![LinkedIn](https://img.shields.io/badge/Escríbeme_en_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexvg20)
 [![Email](https://img.shields.io/badge/Mándame_un_email-b23f12?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexvillar10@gmail.com)
