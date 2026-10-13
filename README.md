@@ -23,6 +23,14 @@ Desarrollador Full Stack con foco en **Laravel + React con TypeScript**, titulad
 
 Siempre tengo algún proyecto en marcha y todo lo que construyo acaba aquí o en [GitLab](https://gitlab.com/alexvillar10).
 
+### [Cúpula](https://github.com/Alexyz17/cupula) · reservas para clubs de astronomía
+
+`Laravel 13` `Sanctum` `Pest` `React 19` `TypeScript` `TanStack Query` `MSW` `OpenAPI` `GitHub Actions`
+
+API REST en Laravel separada de un frontend React para reservar telescopios sin solapes. Reglas de negocio reales (franjas horarias, límites por socio, zonas horarias y roles), reservas protegidas contra peticiones simultáneas, **46 tests de Pest y 20 de Vitest**, documentación OpenAPI y un modo visión nocturna en rojo. **[Demo pública →](https://alexyz17.github.io/cupula/)**
+
+<a href="https://alexyz17.github.io/cupula/"><img src="https://raw.githubusercontent.com/Alexyz17/cupula/main/docs/capturas/vision-nocturna.png" alt="Cúpula en modo visión nocturna: reserva de un telescopio" width="100%" /></a>
+
 ### [darkcode](https://github.com/Alexyz17/darkcode) · aplicación full stack
 
 `Laravel 13` `Inertia` `React 19` `TypeScript` `PostgreSQL` `PHPUnit` `Docker` `GitHub Actions`
